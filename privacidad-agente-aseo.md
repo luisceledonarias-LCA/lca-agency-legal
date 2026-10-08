@@ -1,12 +1,12 @@
-# Política de privacidad — Agente de WhatsApp "Agente Aseo"
+# Política de privacidad — LCA Asistente (asistente de WhatsApp)
 
-**Última actualización:** 5 de octubre de 2026
+**Última actualización:** 8 de octubre de 2026
 
 Esta política explica qué datos personales trata el asistente automatizado de
-WhatsApp "Agente Aseo" (en adelante, "el Agente"), para qué los usa, con quién
+"LCA Asistente" (en adelante, "el Agente"), para qué los usa, con quién
 los comparte y cómo ejercer los derechos sobre ellos.
 
-El Agente es desarrollado y operado por **LCA Agency** para empresas de aseo
+El Agente es desarrollado y operado por **LCA Agency** para las empresas
 que lo contratan (en adelante, "la Empresa"). Su función es atender los
 mensajes internos que las **trabajadoras de la Empresa** envían a su
 supervisión: responder consultas de procedimientos, recibir fotografías de los
@@ -27,7 +27,7 @@ Cuando una persona escribe al número de WhatsApp del Agente, se tratan:
 | Nombre de perfil de WhatsApp | El nombre que la persona muestra en WhatsApp |
 | Contenido de los mensajes de texto | Consultas, avisos, solicitudes |
 | Notas de voz | Se transcriben a texto; el audio no se almacena |
-| Fotografías | Fotos de los trabajos de aseo realizados |
+| Fotografías | Fotos de los trabajos realizados |
 | Fecha y hora de cada mensaje | |
 | Clasificación automática del mensaje | Urgente, importante o normal, y su tipo |
 
