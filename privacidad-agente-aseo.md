@@ -1,9 +1,9 @@
-# Política de privacidad — LCA Asistente 24/7 (asistente de WhatsApp)
+# Política de privacidad — LCA Asistente (asistente de WhatsApp)
 
 **Última actualización:** 8 de octubre de 2026
 
 Esta política explica qué datos personales trata el asistente automatizado de
-"LCA Asistente 24/7" (en adelante, "el Agente"), para qué los usa, con quién
+"LCA Asistente" (en adelante, "el Agente"), para qué los usa, con quién
 los comparte y cómo ejercer los derechos sobre ellos.
 
 El Agente es desarrollado y operado por **LCA Agency** para las empresas
