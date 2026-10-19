@@ -1,13 +1,17 @@
 # Política de privacidad — LCA Asistente (asistente de WhatsApp)
 
-**Última actualización:** 8 de octubre de 2026
+**Última actualización:** 19 de octubre de 2026
 
 Esta política explica qué datos personales trata el asistente automatizado de
 "LCA Asistente" (en adelante, "el Agente"), para qué los usa, con quién
 los comparte y cómo ejercer los derechos sobre ellos.
 
 El Agente es desarrollado y operado por **LCA Agency** para las empresas
-que lo contratan (en adelante, "la Empresa"). Su función es atender los
+que lo contratan (en adelante, "la Empresa"). **La Empresa es la responsable
+de los datos**: decide para qué se usan. **LCA Agency actúa como encargada**:
+los trata solo por cuenta de la Empresa y según sus instrucciones. El nombre de
+la Empresa responsable se informa a cada persona en el primer mensaje del
+Agente. Su función es atender los
 mensajes internos que las **trabajadoras de la Empresa** envían a su
 supervisión: responder consultas de procedimientos, recibir fotografías de los
 trabajos realizados y avisar a la supervisora de los temas que requieren una
@@ -57,27 +61,38 @@ procedimientos. **El Agente nunca responde por su cuenta temas de horarios,
 permisos, temas personales ni urgencias**: esos mensajes siempre se derivan a
 la supervisora, que es quien decide.
 
-## 4. Con quién se comparten (proveedores)
+## 4. Con quién se comparten (proveedores) y transferencia internacional
 
 Para funcionar, el Agente utiliza los siguientes proveedores, que tratan los
 datos solo para prestar su servicio:
 
-| Proveedor | Para qué |
-|---|---|
-| **Meta Platforms** (WhatsApp Business Platform) | Enviar y recibir los mensajes de WhatsApp |
-| **Anthropic** (Claude) | Analizar y clasificar los mensajes y redactar respuestas |
-| **OpenAI** | Transcribir las notas de voz a texto |
-| **Supabase** | Alojar el Agente, la base de datos y las fotografías |
+| Proveedor | Para qué | Dónde procesa los datos |
+|---|---|---|
+| **Meta Platforms** (WhatsApp Business Platform) | Enviar y recibir los mensajes de WhatsApp | Estados Unidos y otros países |
+| **Anthropic** (Claude) | Analizar y clasificar los mensajes y redactar respuestas | Estados Unidos |
+| **OpenAI** | Transcribir las notas de voz a texto | Estados Unidos |
+| **Supabase** | Alojar el Agente, la base de datos y las fotografías | Canadá |
 
-Estos proveedores pueden procesar los datos fuera de Chile. Además, la
-supervisora y las personas autorizadas por la Empresa pueden ver los mensajes
-y fotografías.
+**Transferencia internacional:** por lo anterior, los datos se envían y
+procesan **fuera de Chile**. Estos proveedores tratan los datos bajo sus
+propias condiciones contractuales de protección de datos y, en el caso de los
+servicios de inteligencia artificial, sin usarlos para entrenar sus modelos.
+Ningún proveedor recibe los datos para fines propios ni publicitarios.
+
+Además, la supervisora y las personas autorizadas por la Empresa pueden ver
+los mensajes y fotografías.
 
 ## 5. Por cuánto tiempo se guardan
 
-Los mensajes, transcripciones y fotografías se conservan por un máximo de
-**12 meses** desde su recepción, o por el período que la Empresa indique si es
-menor. Cuando termina el servicio con la Empresa, los datos se eliminan o se
+| Dato | Plazo máximo |
+|---|---|
+| Mensajes, transcripciones y fotografías | **12 meses** desde su recepción (o menos, si la Empresa lo indica) |
+| Reportes mensuales de fotografías (PDF) | 30 días |
+| Archivo de «VER MIS DATOS» | 7 días |
+| Registros técnicos de entrega de mensajes | 30 días |
+| Número y nombre de quien escribe sin estar autorizado | 30 días desde su último mensaje |
+
+El borrado es automático: una tarea diaria elimina lo que cumplió su plazo. Cuando termina el servicio con la Empresa, los datos se eliminan o se
 entregan a la Empresa, según lo que ella solicite.
 
 ## 6. Seguridad
@@ -96,21 +111,36 @@ De acuerdo con la legislación chilena de protección de datos personales
 puede solicitar:
 
 - **Acceso**: saber qué datos suyos se guardan.
+- **Portabilidad**: recibir una copia de sus datos en un formato de uso común.
 - **Rectificación**: corregir datos inexactos.
 - **Supresión**: que se eliminen sus datos.
 - **Oposición**: dejar de usar el Agente y que no se sigan tratando sus datos.
 
-## 8. Cómo solicitar la eliminación de datos
+## 8. Cómo ejercer sus derechos
 
-Para pedir la eliminación de sus datos o ejercer cualquiera de los derechos
-anteriores:
+**Acceso y portabilidad:** escriba al número de WhatsApp del Agente el mensaje
+**"VER MIS DATOS"**. Recibirá de inmediato un resumen de lo que se guarda y un
+link a un archivo (CSV, se abre en Excel o Google Sheets) con todos sus
+mensajes, las respuestas del Agente y links a sus fotografías. El link vence a
+los 7 días y el archivo se borra en ese mismo plazo.
+
+**Eliminación:**
 
 1. Escriba al número de WhatsApp del Agente el mensaje **"ELIMINAR MIS DATOS"**,
    o pídalo directamente a la supervisora de la Empresa.
 2. La solicitud será revisada por una persona y los datos asociados a su
    número de teléfono (mensajes, transcripciones y fotografías) se eliminarán
    en un plazo máximo de **15 días hábiles**.
-3. Se le confirmará por el mismo medio cuando la eliminación esté completa.
+3. Se eliminan también los avisos que el Agente envió a la supervisora sobre
+   esos mensajes. Las copias que ya estén en el teléfono de la supervisora no
+   las puede borrar el Agente; pídale directamente que las elimine.
+4. Se le confirmará por el mismo medio cuando la eliminación esté completa.
+
+**Rectificación y oposición:** pídalas directamente a la supervisora de la
+Empresa.
+
+**Reclamo:** si considera que sus derechos no fueron respetados, puede
+presentar un reclamo ante la **Agencia de Protección de Datos Personales**.
 
 ## 9. Cambios a esta política
 
@@ -119,6 +149,9 @@ en esta misma dirección, con su fecha de última actualización.
 
 ## 10. Contacto
 
-**Responsable del desarrollo y operación:** LCA Agency.
+- **Responsable de los datos:** la Empresa que contrató el Agente (se informa
+  en el primer mensaje).
+- **Encargado del desarrollo y operación:** LCA Agency.
+
 Para consultas sobre esta política, contacte a la supervisora de la Empresa o
 escriba al número de WhatsApp del Agente.
