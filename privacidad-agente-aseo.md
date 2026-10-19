@@ -36,8 +36,11 @@ Cuando una persona escribe al número de WhatsApp del Agente, se tratan:
 | Clasificación automática del mensaje | Urgente, importante o normal, y su tipo |
 
 El Agente **no solicita** datos sensibles (salud, opiniones, datos bancarios,
-etc.). Si una persona los incluye por iniciativa propia en un mensaje, se
-tratan solo para atender ese mensaje y avisar a la supervisora.
+etc.). Si una persona los incluye por iniciativa propia en un mensaje (por
+ejemplo, un problema de salud al pedir un permiso), se tratan solo para atender
+ese mensaje: el aviso a la supervisora incluye únicamente lo necesario para
+decidir, sin detalles médicos, y esos mensajes se marcan como sensibles y se
+conservan **un máximo de 3 meses**.
 
 ## 2. Para qué se usan
 
@@ -60,6 +63,10 @@ artificial para clasificarlos y, cuando corresponde, responder consultas de
 procedimientos. **El Agente nunca responde por su cuenta temas de horarios,
 permisos, temas personales ni urgencias**: esos mensajes siempre se derivan a
 la supervisora, que es quien decide.
+
+Los mensajes personales **sin relación con el trabajo** (por ejemplo, compras,
+arriendos o trámites propios) **no se reenvían a la supervisora**: el Agente
+responde que el canal es solo para temas de trabajo.
 
 ## 4. Con quién se comparten (proveedores) y transferencia internacional
 
@@ -87,6 +94,7 @@ los mensajes y fotografías.
 | Dato | Plazo máximo |
 |---|---|
 | Mensajes, transcripciones y fotografías | **12 meses** desde su recepción (o menos, si la Empresa lo indica) |
+| Mensajes con datos sensibles (salud u otros) | **3 meses** desde su recepción |
 | Reportes mensuales de fotografías (PDF) | 30 días |
 | Archivo de «VER MIS DATOS» | 7 días |
 | Registros técnicos de entrega de mensajes | 30 días |
