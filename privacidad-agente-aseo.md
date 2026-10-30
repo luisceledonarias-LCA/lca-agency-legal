@@ -47,7 +47,9 @@ conservan **un máximo de 3 meses**.
 1. **Responder consultas de procedimientos de trabajo** usando la información
    que entrega la Empresa.
 2. **Avisar a la supervisora** de urgencias, permisos, cambios de turno y
-   cualquier tema que requiera atención de una persona.
+   cualquier tema que requiera atención de una persona, y **hacerle llegar a
+   la trabajadora la respuesta** que la supervisora escriba en el chat del
+   Agente.
 3. **Registrar las fotografías de los trabajos realizados** y generar un
    reporte mensual para la Empresa.
 4. **Mantener un historial** de los mensajes recibidos para la gestión interna
@@ -97,7 +99,7 @@ los mensajes y fotografías.
 | Mensajes con datos sensibles (salud u otros) | **3 meses** desde su recepción |
 | Reportes mensuales de fotografías (PDF) | 30 días |
 | Archivo de «VER MIS DATOS» | 7 días |
-| Registros técnicos de entrega de mensajes | 30 días |
+| Registros técnicos de entrega de mensajes, incluidas las respuestas de la supervisora reenviadas por el Agente | 30 días |
 | Número y nombre de quien escribe sin estar autorizado | 30 días desde su último mensaje |
 
 El borrado es automático: una tarea diaria elimina lo que cumplió su plazo. Cuando termina el servicio con la Empresa, los datos se eliminan o se
