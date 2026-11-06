@@ -89,7 +89,12 @@ servicios de inteligencia artificial, sin usarlos para entrenar sus modelos.
 Ningún proveedor recibe los datos para fines propios ni publicitarios.
 
 Además, la supervisora y las personas autorizadas por la Empresa pueden ver
-los mensajes y fotografías.
+los mensajes y fotografías, también desde un panel web privado. Para entrar al
+panel se necesita un código que el Agente envía por WhatsApp solo a las personas
+autorizadas. La gerencia de la Empresa, si tiene acceso, ve solo cifras del
+mes, la lista del equipo y las fotografías de trabajos (sin las que contengan
+datos sensibles); no ve el texto de los mensajes. Cada ingreso al panel y cada
+conversación que se abre quedan registrados.
 
 ## 5. Por cuánto tiempo se guardan
 
@@ -100,6 +105,8 @@ los mensajes y fotografías.
 | Reportes mensuales de fotografías (PDF) | 30 días |
 | Archivo de «VER MIS DATOS» | 7 días |
 | Registros técnicos de entrega de mensajes, incluidas las respuestas de la supervisora reenviadas por el Agente | 30 días |
+| Registro de las órdenes de la supervisora y la administración (quién, qué y cuándo; sin el texto de las respuestas), por seguridad | 12 meses |
+| Códigos y sesiones de acceso al panel web | 10 minutos (códigos) y 12 horas (sesiones) |
 | Número y nombre de quien escribe sin estar autorizado | 30 días desde su último mensaje |
 
 El borrado es automático: una tarea diaria elimina lo que cumplió su plazo. Cuando termina el servicio con la Empresa, los datos se eliminan o se
