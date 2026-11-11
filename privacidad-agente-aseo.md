@@ -108,6 +108,7 @@ conversación que se abre quedan registrados.
 | Registro de las órdenes de la supervisora y la administración (quién, qué y cuándo; sin el texto de las respuestas), por seguridad | 12 meses |
 | Códigos y sesiones de acceso al panel web | 10 minutos (códigos) y 12 horas (sesiones) |
 | Número y nombre de quien escribe sin estar autorizado | 30 días desde su último mensaje |
+| Registro de mensajes recibidos (identificador del mensaje y número, sin el contenido), para no procesar duplicados y limitar abusos | 30 días |
 
 El borrado es automático: una tarea diaria elimina lo que cumplió su plazo. Cuando termina el servicio con la Empresa, los datos se eliminan o se
 entregan a la Empresa, según lo que ella solicite.
